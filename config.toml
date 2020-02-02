@@ -1,0 +1,8 @@
+baseURL = "https://kollee.github.io"
+languageCode = "en-us"
+title = "TILT"
+
+theme = "ezhil"
+
+[params]
+    subtitle = "**T**hings **I** **L**earned **T**oday!"
